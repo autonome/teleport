@@ -1,0 +1,15 @@
+{
+  "title": "Teleport for Developer Tools",
+  "name": "teleport",
+  "version": "0.0.1",
+  "description": "Send the current URL to Firefox on any device that is logged into your Firefox Account for quick mobile device testing.",
+  "main": "index.js",
+  "author": "Dietrich Ayala",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack, devtools, mobile"
+  ]
+}
